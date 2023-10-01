@@ -70,3 +70,8 @@ export const StudentsData = [
         email:"iu@unicorn.inn",
     },
 ]
+
+
+// git remote add origin https://github.com/fayajmomin007/CourseAPI.git
+// git branch -M main
+// git push -u origin main
